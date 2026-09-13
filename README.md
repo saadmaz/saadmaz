@@ -63,6 +63,25 @@ Founder running multiple ventures in parallel — physical-world businesses and 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="48" height="48"/>
 </p>
 
+### 📌 Featured Projects
+
+<!-- SAAD: fill in — tell me which repos to feature (owner/repo) and I'll swap this for GitHub pin cards -->
+
+| Project | Description |
+|---|---|
+| <!-- SAAD: fill in --> | <!-- SAAD: fill in --> |
+| <!-- SAAD: fill in --> | <!-- SAAD: fill in --> |
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=saadmaz&show_icons=true&theme=default" alt="Saad's GitHub stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saadmaz" alt="Saad's GitHub streak" height="165"/>
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadmaz&layout=compact" alt="Saad's most used languages" height="165"/>
+</p>
+
 ### 🌐 Get in touch
 
 <!-- SAAD: fill in real URLs — I have none of these on file -->
