@@ -1,6 +1,18 @@
 # Hi, I'm Saad Mazhar 👋
 
-Founder running multiple ventures in parallel — physical-world businesses and software products — while working in BD and data science at Spectrify AI.
+Founder running multiple ventures in parallel (physical-world businesses and software products) while working in BD and data science at Spectrify AI.
+
+---
+
+## 👨‍💻 About Me
+
+I'm **Saad**, an entrepreneur and Computer Science undergraduate passionate about building and exploring technology.
+
+My interests sit at the intersection of **software development, AI, blockchain, Web3, SaaS, and emerging technologies**. I enjoy turning ideas into real products, experimenting with new tech, and building solutions that solve actual problems.
+
+Outside of building, you'll often find me taking part in **hackathons, tech communities, and startup projects**.
+
+> *"Stay curious. Build boldly. Keep learning."* 🚀
 
 ---
 
@@ -58,7 +70,7 @@ Founder running multiple ventures in parallel — physical-world businesses and 
 
 ### 📌 Featured Projects
 
-<!-- SAAD: fill in — tell me which repos to feature (owner/repo) and I'll swap this for GitHub pin cards -->
+<!-- SAAD: fill in: tell me which repos to feature (owner/repo) and I'll swap this for GitHub pin cards -->
 
 | Project | Description |
 |---|---|
