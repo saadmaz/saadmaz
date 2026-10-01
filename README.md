@@ -1,12 +1,6 @@
 # Hi, I'm Saad Mazhar 👋
 
-Founder running multiple ventures in parallel (physical-world businesses and software products) while working in BD and data science at Spectrify AI.
-
----
-
-## 👨‍💻 About Me
-
-I'm **Saad**, an entrepreneur and Computer Science undergraduate passionate about building and exploring technology.
+An entrepreneur and Computer Science undergraduate passionate about building and exploring technology.
 
 My interests sit at the intersection of **software development, AI, blockchain, Web3, SaaS, and emerging technologies**. I enjoy turning ideas into real products, experimenting with new tech, and building solutions that solve actual problems.
 
@@ -16,18 +10,6 @@ Outside of building, you'll often find me taking part in **hackathons, tech comm
 
 ---
 
-### 💼 Currently
-
-- 📊 Business Development Associate & Data Science at **Spectrify AI**
-
-### 🏢 Companies I'm a part of
-
-| Company | What it does |
-|---|---|
-| Tank Sudda | <!-- SAAD: fill in --> |
-| Stopwash | <!-- SAAD: fill in --> |
-| Team Sudda | <!-- SAAD: fill in --> |
-| Polish Stationn | 🚗 Vehicle detailing centre |
 
 ### 🛠️ Tech & Tools
 
@@ -68,14 +50,6 @@ Outside of building, you'll often find me taking part in **hackathons, tech comm
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="48" height="48"/>
 </p>
 
-### 📌 Featured Projects
-
-<!-- SAAD: fill in: tell me which repos to feature (owner/repo) and I'll swap this for GitHub pin cards -->
-
-| Project | Description |
-|---|---|
-| <!-- SAAD: fill in --> | <!-- SAAD: fill in --> |
-| <!-- SAAD: fill in --> | <!-- SAAD: fill in --> |
 
 ### 📊 GitHub Stats
 
