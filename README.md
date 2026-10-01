@@ -6,7 +6,7 @@ My interests sit at the intersection of **software development, AI, blockchain, 
 
 Outside of building, you'll often find me taking part in **hackathons, tech communities, and startup projects**.
 
-> *"Stay curious. Build boldly. Keep learning."* 🚀
+> *Stay curious. Build boldly. Keep moving forward.* 🚀
 
 ---
 
