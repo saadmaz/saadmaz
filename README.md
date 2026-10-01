@@ -15,7 +15,7 @@ Founder running multiple ventures in parallel — physical-world businesses and 
 | Tank Sudda | <!-- SAAD: fill in --> |
 | Stopwash | <!-- SAAD: fill in --> |
 | Team Sudda | <!-- SAAD: fill in --> |
-| Polish Station | 🚗 Vehicle detailing centre |
+| Polish Stationn | 🚗 Vehicle detailing centre |
 
 ### 🛠️ Tech & Tools
 
