@@ -1,4 +1,4 @@
-# Hi, I'm Saad Mazhar 🇱🇰
+# Hi, I'm Saad Mazhar 👋
 
 An entrepreneur and Computer Science undergraduate passionate about building and exploring technology.
 
